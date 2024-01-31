@@ -1,0 +1,17 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    cursor: pointer;
+}
+
+.trash:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.text-done{
+    text-decoration: line-through;
+}
